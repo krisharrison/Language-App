@@ -1,0 +1,16 @@
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\bin\Release\Vitamin_c_DataBase.mdf
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\bin\Release\Vitamin_c_DataBase_log.ldf
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\bin\Release\Vitamin_C.exe.config
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\bin\Release\Vitamin_C.exe
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\bin\Release\Vitamin_C.pdb
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.DictionaryForm.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.DictionaryContentsForm.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.FlashCard.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.Login.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.MainMenu.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.Properties.Resources.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.Sentances.resources
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.csproj.GenerateResource.cache
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.csproj.CoreCompileInputs.cache
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.exe
+C:\Users\Hussein Altamimi\Desktop\faC#\Vitamin_C\obj\Release\Vitamin_C.pdb
